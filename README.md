@@ -15,23 +15,6 @@
   <li><p>Concurrently - Package that allows you to run multiple scripts at the same time</p></li>
 </ul>
 
-<h2>More work</h2>
-<a href="https://www.kuzmanovicaleksandar.com" target="_blank">www.kuzmanovicaleksandar.com</a><br />
-<a href="https://github.com/Kuzma02/VSD-Official-Website" target="_blank">Car Parts Company Official Website in Next.js</a><br />
-<a href="https://github.com/Kuzma02/Luxury-Cosmetics-eCommerce-NextJS" target="_blank">Luxury Cosmetics eCommerce Shop in Next.js</a><br />
-<a href="https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS" target="_blank">Electronics eCommerce Shop With Admin Dashboard in Next.js and Node.js</a><br />
-<a href="https://github.com/Kuzma02/Free-Admin-Dashboard" target="_blank">Premium Custom Admin Dashboard</a>
-
-<h2>Video instructions YouTube tutorial for running the application:</h2>
-<a href="https://www.youtube.com/watch?v=M9DHiusoPOI">https://www.youtube.com/watch?v=M9DHiusoPOI</a>
-
-<h2>Instructions - The Fashion Website Template</h2>
-<ol>
-  <li><p>To run the app you first need to download and install Node.js and npm on your computer. Here is a link to the tutorial that explains how to install them: <a href="https://www.youtube.com/watch?v=4FAtFwKVhn0" target="_blank">https://www.youtube.com/watch?v=4FAtFwKVhn0</a>. Also here is the link where you can download them: <a href="https://nodejs.org/en" target="_blank">https://nodejs.org/en</a></p></li>
-  <li><p>When you install all the programs you need on your computer you need to download the project. When you download the project, you need to extract it.</p></li>
-  <li><p>After you extract the project, you need to open the project folder in the command prompt or any terminal of choice. After it write the following command:</p></li>
-</ol>
-
 ```
 npm install
 ```
